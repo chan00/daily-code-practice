@@ -3,7 +3,7 @@ Day: 01
 Date: 2025-08-01
 Topic: Hello World & Basic Output
 Challenge: Print a greeting, introduction, and career goals
-What I Learned: [Fill this AFTER completing]
+What I Learned: printing strings, formatting output, and using special characters for styling
 Difficulty: Easy
 Time Taken: [XX minutes]
 """
